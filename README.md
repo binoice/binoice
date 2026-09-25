@@ -1,3 +1,14 @@
+# Hi there, I'm binoice 👋
+
+<div align="center">
+
+<!-- Typing Effect Subtitle -->
+<a href="https://github.com/binoice">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Explorer;Turning+Coffee+into+Code" alt="Typing SVG" />
+</a>
+
+<br/>
+
 ### 🚀 Creative Developer & Tech Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/binoice?style=for-the-badge&logo=github&color=2bbc8a)](https://github.com/binoice)
@@ -11,7 +22,7 @@
 ### 💫 About Me
 
 - 🔭 **Working on:** Building open-source tools and exploring new software architectures.
-- 🌱 **Learning:** Deepening my knowledge in scalable backends and modern web frameworks.
+- 🌱 **Learning:** Deepening my knowledge in scalable AI and modern frameworks.
 - 👯 **Looking to collaborate on:** Open-source projects, APIs, and creative developer tools.
 - 💬 **Ask me about:** Web development, coding workflows, and tech automation.
 - ⚡ **Fun Fact:** I code better when listening to lo-fi beats on loop.
